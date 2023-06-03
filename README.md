@@ -1,10 +1,26 @@
 # CS4412_TravellingSalesManProblem
-The Project is to determine the shortest path that visits each city precisely once before returning to the starting point, given a collection of cities and the distances between each pair of cities. 
-![p1h1v9k2fk306nf49vkb1sql24_page_01](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/77f332d6-4f73-4967-ade3-1cfb22fab5e2)
-![p1h1v9k2fk306nf49vkb1sql24_page_02](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/9d8751c9-213c-4c45-80a6-173624dbe869)
-![p1h1v9k2fk306nf49vkb1sql24_page_03](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/b3d1c79c-3017-4bfa-b142-e950e4cf2cb6)
-![p1h1v9k2fk306nf49vkb1sql24_page_04](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/2d8a4054-3ce4-4a92-adf5-c06932b05fd2)
-![p1h1v9k2fk306nf49vkb1sql24_page_05](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/10f90394-be22-49e2-93d0-c2c6fbe059c3)
-![p1h1v9k2fk306nf49vkb1sql24_page_06](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/7d5ed2a4-f01a-4d92-903a-1c36a308e219)
-![p1h1v9k2fk306nf49vkb1sql24_page_07](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/1921195e-4f17-48a0-bb22-a00e06878264)
-![p1h1v9k2fk306nf49vkb1sql24_page_08](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/73a5f502-8ca3-4cea-83a0-dd1db7e02c6f)
+ 
+
+
+
+
+![ezgif com-crop (1)](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/95cd5600-ca91-440c-b68a-a444629707b5)
+
+
+<h2>The Project is to determine the shortest path that visits each city precisely once before returning to the starting point, given a collection of cities and the distances between each pair of cities.</h2>
+
+
+
+
+![Report_1_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/bbbeb4d8-514a-4d5e-88b7-10104bca3401)
+
+![Report_2_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/18bd8ad4-4d81-4f15-ae66-a37939e6576b)
+
+
+
+![Report_3_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/4eee4e74-be79-4e73-8dd4-118532be0b7d)
+![Report_4_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/54f3fe74-854d-4c26-a66b-07c6b2ef2018)
+![Report_5_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/96330536-97f0-4043-a95e-6f699d69d3ed)
+![Report_6_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/a5b7b593-2d92-415a-b909-35e443c3b19e)
+![Report_7_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/bd9bb468-3890-4be0-8819-12fde33d908d)
+![Report_8_trans_recolor](https://github.com/manasush/CS4412_TravellingSalesManProblem/assets/46699115/4f5dbb2e-2738-4fbc-b536-0c4154fd965a)
